@@ -4,16 +4,7 @@ A testable, accessible todo item card built with HTML, CSS and JavaScript for th
 
 ---
 
-## Project Structure
 
-```
-├── index.html   
-├── style.css    
-├── script.js    
-└── README.md    
-```
-
----
 
 ## Features
 
